@@ -5,7 +5,7 @@ length = 10
 sides = 0
 while sides < 200:
 	akshar.forward(length)
-	akshar.left(50)
+	akshar.left(30)
 	sides = sides + 1
 	length = length + 1
 
