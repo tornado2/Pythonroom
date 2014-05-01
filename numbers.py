@@ -4,7 +4,7 @@ numb = 0
 
 for number in numbers:
 	
-	if number % 5 == 0:
+	if number % 5 == 0 or number % 3 == 0:
 		
 	
 	
