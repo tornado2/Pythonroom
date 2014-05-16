@@ -1,8 +1,8 @@
 # author: tornado2
-People = range (1,101)
+people = range (1,101)
 switch = false
-rounds = (1,101)
-for r in rounds:
+Round = (1,101)
+for r in Round:
 	for p in people:
 		if p % r = 0:
 			if switch = false:
